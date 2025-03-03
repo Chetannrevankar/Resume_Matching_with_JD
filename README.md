@@ -67,7 +67,7 @@ python main.py
 
 5️⃣ **View Results :**  The app ranks resumes based on similarity and displays the top-matching resumes with similarity scores.
 
-## 📌 Authors
+## 📌 Author
 
 - Developed by [Chetan N Revankar](https://github.com/Chetannrevankar)
 
