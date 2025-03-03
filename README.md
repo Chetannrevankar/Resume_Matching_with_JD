@@ -10,6 +10,7 @@ Resume Matching with JD is an AI-powered Flask web application that helps recrui
 ✔️ Similarity Scoring – Uses cosine similarity to rank resumes  
 ✔️ Top Matching Resumes Displayed with similarity scores  
 
+
 ## 🛠 Technologies Used
 
 **🚀 Frontend:**  
@@ -67,6 +68,7 @@ python main.py
 
 5️⃣ **View Results :**  The app ranks resumes based on similarity and displays the top-matching resumes with similarity scores.
 
+
 ## 📌 Author
 
 - Developed by [Chetan N Revankar](https://github.com/Chetannrevankar)
@@ -82,3 +84,10 @@ python main.py
 - [PyPDF2 & docx2txt]() : for enabling resume text extraction from different file formats.  
 - [Bootstrap](https://getbootstrap.com/) : for helping create a clean and responsive UI.  
 - [The Open-Source Community]() : for continuous inspiration and support! 💡
+
+## 📸 Screenshots
+
+- [Frontend](https://github.com/Chetannrevankar/Resume_Matching_with_JD/blob/main/ML_project/FrontEnd.png)
+- [Uploading JD & Resume](https://github.com/Chetannrevankar/Resume_Matching_with_JD/blob/main/ML_project/Uploading_JD_Resume.png)
+- [Result](https://github.com/Chetannrevankar/Resume_Matching_with_JD/blob/main/ML_project/Result.png)
+
